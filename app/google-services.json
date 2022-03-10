@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "948010393023",
+    "project_id": "sneakerdex-6059c",
+    "storage_bucket": "sneakerdex-6059c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948010393023:android:366ae8e0e851bf5be5950a",
+        "android_client_info": {
+          "package_name": "com.example.sneakerdex00"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948010393023-adohkdsnfjdkjq57hnpmabjb90d58ch2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCp012Q0Jp5GrQP8FQQFtWAFdFOcNmxytc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948010393023-adohkdsnfjdkjq57hnpmabjb90d58ch2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
